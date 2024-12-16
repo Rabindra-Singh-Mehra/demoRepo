@@ -1,2 +1,4 @@
 # demoRepo
-This is a demo repository
+This is a demo repository.
+
+Author - Rabindra Singh Mehra
